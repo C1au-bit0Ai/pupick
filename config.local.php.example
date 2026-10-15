@@ -1,0 +1,7 @@
+<?php
+return [
+    'host' => 'localhost',
+    'database' => 'pup_pick',
+    'username' => 'pupick_app',
+    'password' => 'CHANGE_THIS_TO_A_NON_EMPTY_PASSWORD',
+];
